@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactjsw3schoolCloneProject/static/css/main.5a1863ec.chunk.css",
+    "main.js": "/reactjsw3schoolCloneProject/static/js/main.514ba11c.chunk.js",
+    "main.js.map": "/reactjsw3schoolCloneProject/static/js/main.514ba11c.chunk.js.map",
+    "runtime-main.js": "/reactjsw3schoolCloneProject/static/js/runtime-main.ed1295d5.js",
+    "runtime-main.js.map": "/reactjsw3schoolCloneProject/static/js/runtime-main.ed1295d5.js.map",
+    "static/css/2.4476ec44.chunk.css": "/reactjsw3schoolCloneProject/static/css/2.4476ec44.chunk.css",
+    "static/js/2.1ea53b50.chunk.js": "/reactjsw3schoolCloneProject/static/js/2.1ea53b50.chunk.js",
+    "static/js/2.1ea53b50.chunk.js.map": "/reactjsw3schoolCloneProject/static/js/2.1ea53b50.chunk.js.map",
+    "index.html": "/reactjsw3schoolCloneProject/index.html",
+    "static/css/2.4476ec44.chunk.css.map": "/reactjsw3schoolCloneProject/static/css/2.4476ec44.chunk.css.map",
+    "static/css/main.5a1863ec.chunk.css.map": "/reactjsw3schoolCloneProject/static/css/main.5a1863ec.chunk.css.map",
+    "static/js/2.1ea53b50.chunk.js.LICENSE.txt": "/reactjsw3schoolCloneProject/static/js/2.1ea53b50.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactjsw3schoolCloneProject/static/media/background_image.cd576bd4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed1295d5.js",
+    "static/css/2.4476ec44.chunk.css",
+    "static/js/2.1ea53b50.chunk.js",
+    "static/css/main.5a1863ec.chunk.css",
+    "static/js/main.514ba11c.chunk.js"
+  ]
+}
