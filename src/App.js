@@ -1,11 +1,20 @@
 import React, {useEffect} from "react";
 import './App.css';
-import { Switch, Route } from "react-router";
 import HeadNavbar from "./Navbar/HeadNavbar";
-import MergeApp2 from "./MergeApp2"
+import CssSection from "./CssSection/CssSection";
+import Footer from "./Footer/Footer";
+import HtmlSection from "./HtmlSection/HtmlSection";
+import JavaScriptSec from "./JavaScriptSection/JavaScriptSec";
+import LinksMiddleContent from "./LinksMiddleContent/LinksMiddleContent";
+import ReactTooltip from "react-tooltip";
+import PythonSection from "./PythonSection/PythonSection";
+import SqlSection from "./SqlSection/SqlSection";
+import HowToSection from "./HowToSection/HowToSection";
+import KickstartCareer from "./KickstartCareer/KickstartCareer";
+import ScrollToTopBtn from "./ScrollToTop";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import SignupLoginSection from "./LoginSection/SignupLoginSection";
+
 
 
 
@@ -18,11 +27,19 @@ function App() {
 
   return (
     <div className="App">
+       <ReactTooltip />
       <HeadNavbar />
-      <Switch>
-        <Route exact path to="/" component={MergeApp2} />
-        <Route path to="/signuploginsection" component ={SignupLoginSection} />
-      </Switch>
+      <HtmlSection />
+      <CssSection />
+      <JavaScriptSec />
+      <PythonSection />
+      <SqlSection />
+      <LinksMiddleContent />
+      <KickstartCareer />
+      <HowToSection />
+      <Footer />
+      <ScrollToTopBtn />
+     
       
     </div>
   );
