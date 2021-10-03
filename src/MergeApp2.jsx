@@ -10,7 +10,7 @@ import SqlSection from "./SqlSection/SqlSection";
 import HowToSection from "./HowToSection/HowToSection";
 import KickstartCareer from "./KickstartCareer/KickstartCareer";
 import ScrollToTopBtn from "./ScrollToTop";
-import "./App2.css";
+import "./MergeApp2.css";
 const App2 = () => {
   return (
     <div>
