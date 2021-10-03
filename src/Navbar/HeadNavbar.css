@@ -1,0 +1,18 @@
+.login {
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+  margin: 0px 20px;
+  background-color: green;
+  padding: 5px 20px;
+  border-radius: 50px;
+}
+
+.login:hover{
+  color: white;
+}
+.login2{
+  font-size: 25px;
+  text-decoration: none;
+}
+

@@ -1,0 +1,28 @@
+.kickstart {
+  background-color: rgb(29, 28, 28);
+  padding: 150px;
+}
+
+.sub_kickstart h1 {
+  color: pink;
+  font-size: 75px;
+}
+
+.sub_kickstart h2 {
+  color: pink;
+  font-size: 35px;
+}
+
+.sub_kickstart Button {
+  font-size: 20px;
+  padding: 10px 30px;
+  border-radius: 50px;
+  margin-top: 40px;
+}
+
+@media screen and (max-width:450px){
+    .sub_kickstart h1 {
+        font-size: 45px;
+      }
+
+}

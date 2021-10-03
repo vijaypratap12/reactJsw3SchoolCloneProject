@@ -1,0 +1,42 @@
+.footer {
+  margin-top: 200px;
+  background-color: black;
+}
+
+.sub_footer {
+  margin: 100px 0px;
+}
+.footer_upper p {
+  color: white;
+}
+
+.icon1 {
+  margin: 0px 10px;
+  font-size: 20px;
+}
+
+.footer_icons {
+  color: white;
+  margin: 0px 20px;
+  text-align: right;
+}
+.footer_lower {
+  display: grid;
+  place-items: center;
+}
+
+.footer_lower Button {
+  border-radius: 50px;
+  padding: 10px 40px;
+  font-size: 25px;
+  margin: 50px 0px;
+}
+
+.footer_rights {
+  display: grid;
+  place-items: center;
+}
+
+.footer_rights p {
+  color: white;
+}

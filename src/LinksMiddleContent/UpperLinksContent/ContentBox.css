@@ -1,0 +1,30 @@
+
+
+.box{
+    background-color: pink;
+    display: grid;
+    place-items: center;
+    margin: 50px 0px;
+    padding: 100px 0px;
+    border-radius: 20px;
+    transition: .5s ease;
+    cursor: pointer;
+}
+
+.box:hover{
+    transform: translateY(20px);
+}
+.box h1{
+    font-size: 55px;
+}
+
+.box p{
+    font-size: 20px;
+}
+
+
+.box Button{
+    padding: 5px 30px;
+    border-radius: 50px;
+    font-size: 20px;
+}

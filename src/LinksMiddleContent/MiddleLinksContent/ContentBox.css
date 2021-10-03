@@ -1,0 +1,14 @@
+.middlebox{
+    background-color: rgb(58, 136, 58);
+    display: grid;
+    place-items: center;
+    padding: 50px;
+    margin: 50px 0px;
+    border-radius: 20px;
+    transition: .5s ease;
+    color: white;
+}
+
+.middlebox:hover{
+    transform: translateY(20px);
+}

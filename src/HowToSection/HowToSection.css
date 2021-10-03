@@ -1,0 +1,21 @@
+.howtosection {
+  background-color: rgb(177, 180, 158);
+  padding: 130px;
+}
+
+.sub_sub_howtosection {
+  display: grid;
+  place-items: center;
+}
+
+.sub_sub_howtosection Button {
+  border-radius: 50px;
+  padding: 10px 75px;
+}
+
+.sub_sub_howtosection h1 {
+  font-size: 45px;
+}
+.sub_sub_howtosection p {
+  font-size: 20px;
+}

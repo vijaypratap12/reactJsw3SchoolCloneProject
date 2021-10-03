@@ -1,0 +1,19 @@
+.lowerbox{
+    display: grid;
+    place-items: center;
+    margin: 50px 0px;
+    background-color: rgb(36, 36, 100);
+    color: white;
+    transition: .5s ease;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+
+.lowerbox:hover{
+    transform: translateY(20px);
+}
+
+.lowerbox h1{
+    font-size: 55px;
+}

@@ -1,0 +1,7 @@
+
+.App{
+    background-image: url(background_image.jpg);
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+}
